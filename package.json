@@ -1,0 +1,19 @@
+{
+  "name": "quoteproy",
+  "version": "1.0.0",
+  "description": "lista de personas importante",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brandanfabricio/Quotes.git"
+  },
+  "author": "Brandan Fabricio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brandanfabricio/Quotes/issues"
+  },
+  "homepage": "https://github.com/brandanfabricio/Quotes#readme"
+}
